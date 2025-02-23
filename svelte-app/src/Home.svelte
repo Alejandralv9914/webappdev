@@ -24,7 +24,7 @@
   }
 
   .blog-background {
-    background: url('https://i.pinimg.com/originals/09/35/7d/09357dc881925eb4859b7a03714a58be.jpg') center/cover no-repeat;
+    background: url('/images/blog-background.jpg') center/cover no-repeat;
     height: 300px;
     display: flex;
     justify-content: center;
