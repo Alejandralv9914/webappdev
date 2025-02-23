@@ -24,7 +24,7 @@
   }
 
   .blog-background {
-    background: url('/images/blog-background.jpg') center/cover no-repeat;
+    background: url('/images/logo.png') center/cover no-repeat;
     height: 300px;
     display: flex;
     justify-content: center;
